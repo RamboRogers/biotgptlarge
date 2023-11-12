@@ -1,0 +1,4 @@
+sacremoses
+transformers
+gradio
+torch
